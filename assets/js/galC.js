@@ -6,7 +6,7 @@ const botonResetear = document.getElementById('botonResetear')
 
 const pintarGaleria = respuesta => {
     respuesta.galeria.forEach(element => {
-        console.log(element)
+        // console.log(element)
         galeria.innerHTML += `
             <div class="box delay">
                     <a
