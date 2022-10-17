@@ -16,7 +16,7 @@ body {
   background-attachment: fixed;
   background-size: 50%;
   background-position: 50% 50%; */
-  background-image: url('/assets/img/artemetal/logo_.png');
+  background: url("../img/artemetal/logo_.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 30%;
